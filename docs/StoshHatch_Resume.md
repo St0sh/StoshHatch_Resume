@@ -45,38 +45,36 @@ __Zona Ice__, Globe, AZ
 
 - Managed and oversaw an average of 5-10 employees (hiring, training, payroll, scheduling, etc.)
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Sales Rep
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`May 2018 - August 2018`
+__Ardent Pest Control__, Las Vegas, NV
 
-### Data Science Consulting Team
+- Spent three months knocking on doors selling a product and learning new workplace skills (i.e. effective communication, work ethic, etc.) 
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Proselyting Missionary
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`August 2015 - August 2017`
+__LDS Mission__, Lubbock, TX
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Served for 2 years as a missionary in West Texas knocking on doors, developing relationships, learning life skills, and serving others
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Skills/Traits
 
+- I love working through complex, intricate problems using Excel and Google Sheets.
+- Experience building and querying a MySQL database.
+- Very positive, optimistic, and enthusiastic
+- Constantly seeking criticism and advice on ways to improve
 
-## Service and Work History
+## Awards
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Builder of People Award (Frozen Dessert Supplies, 2022)
+(The builder of people reward is a reward given out monthly by FDS to an individual who has shown outstanding skill in building the people around them)
 
+## Other Languages
 
-`2023-2025`
-__Service Missionary__, South Africa
+Spanish - Able to understand and hold basic conversation
+
 
 
 
