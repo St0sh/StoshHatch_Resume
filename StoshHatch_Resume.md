@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Stosh Hatch's Resume
 ---
-# Brigham Young
+# Stosh Hatch
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
