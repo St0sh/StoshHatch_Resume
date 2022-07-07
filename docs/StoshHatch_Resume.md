@@ -29,11 +29,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work Experience
 
-<<<<<<< HEAD:docs/StoshHatch_Resume.md
 ### Lead Data Analyst / Sourcing Specialist
-=======
-### Work
->>>>>>> b09523b858c520c6d555e753e07233dca6dfffc6:docs/index.md
 
 `March 2021 - Present`
 __Frozen Dessert Supplies__, Rexburg, ID
