@@ -3,7 +3,7 @@ layout: cv
 title: Stosh Hatch's Resume
 ---
 # Stosh Hatch
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Student at Brigham Young University - Idaho
 
 <div id="webaddress">
 <a href="stoshahatch@gmail.com">stoshahatch@gmail.com</a>
@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Graduated with Bachelors in Business Analytics
 
 
-## Work Experience
+## Related Experience
 
 ### Lead Data Analyst / Sourcing Specialist
 
