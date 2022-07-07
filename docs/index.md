@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Stosh Hatch's Resume
 ---
-# Brigham Young
+# Stosh Hatch
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="stoshahatch@gmail.com">stoshahatch@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -16,23 +16,23 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017 - 2020`
+__Eastern Arizona College__, Thatcher, AZ
 
-- Full academic scholarship with 4.0 GPA
+- Graduated with Associates in Business Administration
 
-`Expected 2029`
+`2020 - 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Graduated with Bachelors in Business Analytics
 
 
 ## Related Experience
 
-### Internships
+### Work
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`March 2021 - Present`
+__Frozen Dessert Supplies__, Rexburg, ID
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
